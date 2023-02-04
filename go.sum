@@ -1,2 +1,6 @@
 github.com/rizama/go-lib-hello v1.0.0 h1:QqmGH1ZB4huFmUzQBCaxHh0L42oOQ/6TvqmJ1tjF59o=
 github.com/rizama/go-lib-hello v1.0.0/go.mod h1:fXc1zcrD1K1BEzNix/JM0H7DQiRV2OmfrE/aX9bomS4=
+github.com/rizama/go-lib-hello v1.5.0 h1:RRLm9rhZt67pt+zXqCvkce6hpXuGyKue+lUspkAG5c0=
+github.com/rizama/go-lib-hello v1.5.0/go.mod h1:fXc1zcrD1K1BEzNix/JM0H7DQiRV2OmfrE/aX9bomS4=
+github.com/rizama/go-lib-hello/v2 v2.0.0-20230112063037-211b64803901 h1:qoNGuK5slnKgUaYfSJ6t72JfypAQI+jzvHS4Ze+fTK0=
+github.com/rizama/go-lib-hello/v2 v2.0.0-20230112063037-211b64803901/go.mod h1:HxaTfpvUsFrkjHVPPNcNpdOVtOP87mlA3JGHnEamDIs=
